@@ -47,5 +47,5 @@ else:
 
 ```
 
-###Take in mind that this is an example and the program_id and secret_id was created for this example, to get your own program_id and secret_id go to  [NulledAuth](nulledauth.net).
+### Take in mind that this is an example and the program_id and secret_id was created for this example, to get your own program_id and secret_id go to  [NulledAuth](nulledauth.net).
 
