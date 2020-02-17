@@ -14,10 +14,9 @@ this can be run on a command line to get the id of the CPU.
 ## How do I use it?
 
 It's easy just clone / download the content of **auth.py**
-and import it, if you don't know what's **venv** folder, it's just a virtual
-environment, so you can run the class in any machine without having to be worry about the modules.
+and import it.
 
-#### Make sure to install requests if you don't use the virtual environment
+#### Make sure to install requests
 > pip install requests
 
 this will work in most of cases, if you need help to install requests message me.
