@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/Rasko1/nulledauth-python.svg)](http://hits.dwyl.com/Rasko1/nulledauth-python)
 # Nulledauth.net python class
 ## Why?
 I have done this class in order to keep my mental health good, 
